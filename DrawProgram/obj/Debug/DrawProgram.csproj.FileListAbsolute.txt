@@ -1,0 +1,5 @@
+C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csprojAssemblyReference.cache
+C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Form1.resources
+C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Properties.Resources.resources
+C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csproj.GenerateResource.cache
+C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csproj.CoreCompileInputs.cache
