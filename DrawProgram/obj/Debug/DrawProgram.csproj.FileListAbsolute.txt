@@ -1,5 +1,17 @@
+<<<<<<< Updated upstream
 C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csprojAssemblyReference.cache
 C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Form1.resources
 C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Properties.Resources.resources
 C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csproj.GenerateResource.cache
 C:\Users\alena\Source\Repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csproj.CoreCompileInputs.cache
+=======
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\bin\Debug\DrawProgram.exe.config
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\bin\Debug\DrawProgram.exe
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\bin\Debug\DrawProgram.pdb
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csprojAssemblyReference.cache
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Form1.resources
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.Properties.Resources.resources
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.csproj.GenerateResource.cache
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.exe
+C:\Users\Irochka\source\repos\DrawProgram\DrawProgram\obj\Debug\DrawProgram.pdb
+>>>>>>> Stashed changes
