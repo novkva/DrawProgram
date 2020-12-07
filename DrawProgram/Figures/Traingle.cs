@@ -9,14 +9,27 @@ using System.Windows.Forms;
 
 namespace DrawProgram.Figures
 {
-    public class TraingleFigure : IFigure
+    public class RightTraingleFigure : IFigure
     {
         Keys abc;
-        public Point[] GetPoints(Point [] points)
-        {
-                return MathSolve.SolveDownRightTriangle(points[0], points[1]);
-        }
 
-      
+        public Color ColorFigure { get; set; }
+
+        public Point[] GetPoints(Point[] points, bool check)
+        {
+            if (check)
+            {
+                return MathSolve.SolveDownRightTriangle(points[0], points[1]);
+            }
+            else
+            {
+                return MathSolve.SolveUpRightTriangle(points[0], points[1]);
+            }
+
+        }
+        public void Draw(Graphics graphics, Pen pen, Point[] points)
+        {
+            graphics.DrawPolygon(pen, points);
+        }
     }
 }

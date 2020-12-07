@@ -9,6 +9,8 @@ namespace DrawProgram.Figures
 {
     interface IFigure
     {
-        Point[] GetPoints(Point[] points);
+        Color ColorFigure { get; set; }
+        Point[] GetPoints(Point[] points, bool check);
+        void Draw(Graphics graphics, Pen pen, Point[] points);
     }
 }
